@@ -14,11 +14,11 @@
         <fqname>@1.2::ISecureElement/SIM2</fqname>
     </hal>
     <hal format="hidl" override="true">
-        <name>vendor.qti.esepowermanager</name>
+        <name>vendor.nxp.nxpnfc</name>
         <transport>hwbinder</transport>
     </hal>
     <hal format="hidl" override="true">
-        <name>vendor.qti.hardware.qteeconnector</name>
+        <name>vendor.nxp.nxpnfclegacy</name>
         <transport>hwbinder</transport>
     </hal>
 </manifest>
