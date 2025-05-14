@@ -14,15 +14,7 @@ service chipone_ident /vendor/bin/hw/chipone_ident
     oneshot
     disabled
 
-service vendor.ident-fps-overlay-sh /vendor/bin/init.oem.fingerprint.overlay.sh
-    class core
-    user root
-    group drmrpc system
-    oneshot
-    disabled
-
 on post-fs-data
-    exec_start vendor.ident-fps-overlay-sh
     chown system system /dev/fpsensor
     chmod 0660 /dev/fpsensor
     chown system system /sys/devices/platform/soc/soc:fm_wcn39x0/elna_en

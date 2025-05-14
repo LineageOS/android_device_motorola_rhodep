@@ -49,8 +49,7 @@ PRODUCT_PACKAGES += \
 
 # Init
 PRODUCT_PACKAGES += \
-    init.mmi.overlay.rc \
-    init.oem.fingerprint2.sh
+    init.mmi.overlay.rc
 
 # NFC
 PRODUCT_PACKAGES += \
