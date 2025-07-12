@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "f6684a11_202ce8f3",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2025-07-12T06:27:15Z",
+      "side": 1,
+      "message": "All other moto devices have init.oem.fingerprint2.sh in tree so I would like not to diverge from that",
+      "revId": "c867349fede8022591eed85da9541c0482099c31",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
