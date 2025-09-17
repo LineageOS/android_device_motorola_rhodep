@@ -50,11 +50,12 @@ PRODUCT_PACKAGES += \
 # Init
 PRODUCT_PACKAGES += \
     init.mmi.overlay.rc \
+    init.nfc.samsung.rc \
     init.oem.fingerprint2.sh
 
 # NFC
 PRODUCT_PACKAGES += \
-    android.hardware.nfc@1.2-service.samsung \
+    android.hardware.nfc-service.samsung \
     com.android.nfc_extras \
     Tag
 
