@@ -16,6 +16,24 @@
       "message": "Is I90a3dd06c3f949ee14e434baf859bd6d1a874729 needed for sm6375-common?",
       "revId": "ac16b6d4a83901b834eacbb0b6bec530362f502c",
       "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    },
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "495c9596_8c3be108",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-02-07T08:15:06Z",
+      "side": 1,
+      "message": "Nope, since only a few devices build/need the sensor hal",
+      "parentUuid": "4fc5baa6_7a29df8d",
+      "revId": "ac16b6d4a83901b834eacbb0b6bec530362f502c",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
     }
   ]
 }
