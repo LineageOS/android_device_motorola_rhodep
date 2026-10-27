@@ -73,6 +73,10 @@ $(foreach DEVICE_SKU, $(DEVICE_SKUS), \
     $(LOCAL_PATH)/permissions/unavail.android.hardware.nfc.uicc.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/sku_$(DEVICE_SKU)/unavail.android.hardware.nfc.uicc.xml \
     $(LOCAL_PATH)/permissions/unavail.android.hardware.nfc.xml:$(TARGET_COPY_OUT_ODM)/etc/permissions/sku_$(DEVICE_SKU)/unavail.android.hardware.nfc.xml)
 
+# Properties
+PRODUCT_PACKAGES += \
+    hardware.sku.XT2225-2.prop
+
 # Sensors
 PRODUCT_PACKAGES += \
     sensors.moto_ext
