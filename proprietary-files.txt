@@ -43,6 +43,8 @@ vendor/lib64/com.qualcomm.qti.mcx.usecase.extension.so
 vendor/lib64/hw/camera.qcom.so
 vendor/lib64/hw/com.qti.chi.override.so
 vendor/lib64/libBSTSWAD.so
+vendor/lib64/libaidenoiser.so
+vendor/lib64/libaidenoiserv2.so
 vendor/lib64/libarcsoft_low_light_shot.so
 vendor/lib64/libbitmlengine.so
 vendor/lib64/libbitmlenginev2.so
@@ -67,9 +69,14 @@ vendor/lib64/libipebpsstriping170.so
 vendor/lib64/libjpege.so
 vendor/lib64/liblowlight_ai_portrait.arcsoft.so
 vendor/lib64/libmctfengine_stub.so
+vendor/lib64/libmmcamera_bestats.so
 vendor/lib64/libmmcamera_cac3.so
+vendor/lib64/libmmcamera_faceproc.so
+vendor/lib64/libmmcamera_faceproc2.so
+vendor/lib64/libmmcamera_lscv35.so
 vendor/lib64/libmmcamera_mfnr.so
 vendor/lib64/libmmcamera_mfnr_t4.so
+vendor/lib64/libmmcamera_pdpc.so
 vendor/lib64/libmot_afd.so
 vendor/lib64/libmotoisdataqueue.so
 vendor/lib64/libmpbase.so
@@ -77,6 +84,8 @@ vendor/lib64/libofflinedump.so
 vendor/lib64/libofflinelog.so
 vendor/lib64/libopencv.so
 vendor/lib64/libopestriping.so
+vendor/lib64/libqll10.so
+vendor/lib64/libqllengine.so
 vendor/lib64/libremosaic_wrapper.so
 vendor/lib64/libswregistrationalgo.so
 vendor/lib64/libtfestriping.so
