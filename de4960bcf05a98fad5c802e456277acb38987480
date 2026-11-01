@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "3a4fceba_cdf24adb",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 4550
+      },
+      "writtenOn": "2026-11-01T16:22:03Z",
+      "side": 1,
+      "message": "wiki only lists XT2225-1 as supported, is XT2225-2 actually able to be flashed and we have users owning it?",
+      "revId": "de4960bcf05a98fad5c802e456277acb38987480",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71"
+    }
+  ]
+}
